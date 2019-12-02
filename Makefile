@@ -2,7 +2,7 @@ PY?=python3
 PELICAN?=pelican
 PELICANOPTS=
 
-BASEDIR=$https://hynjin.github.io/tax
+BASEDIR=$(CURDIR)
 INPUTDIR=$(BASEDIR)/content
 OUTPUTDIR=$(BASEDIR)/output
 CONFFILE=$(BASEDIR)/pelicanconf.py
