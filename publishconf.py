@@ -12,16 +12,16 @@ sys.path.append('tax')
 from pelicanconf import *
 
 # If your site is available via HTTPS, make sure SITEURL begins with https://
-SITEURL = 'https://hynjin.github.io/tax/'
+SITEURL = 'https://hynjin.github.io/tax'
 RELATIVE_URLS = False
 
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
 CATEGORY_FEED_ATOM = 'feeds/{slug}.atom.xml'
 
 DELETE_OUTPUT_DIRECTORY = True
-relative_urls : false,
-remove_script_host : false,
-document_base_url : "https://hynjin.github.io/tax/"
+RELATIVE_URLS : False
+remove_script_host : False
+document_base_url : "https://hynjin.github.io/tax"
 # Following items are often useful when publishing
 
 #DISQUS_SITENAME = ""
