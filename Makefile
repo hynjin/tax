@@ -2,7 +2,7 @@ PY?=python3
 PELICAN?=pelican
 PELICANOPTS=
 
-BASEDIR=$(CURDIR)/tax
+BASEDIR=$(CURDIR)
 INPUTDIR=$(BASEDIR)/content
 OUTPUTDIR=$(BASEDIR)/output
 CONFFILE=$(BASEDIR)/pelicanconf.py
@@ -18,7 +18,7 @@ endif
 
 RELATIVE ?= 0
 ifeq ($(RELATIVE), 1)
-	PELICANOPTS += --relative-urls
+	PELICANOPTS += --relative-urls +'tax'
 endif
 
 help:
