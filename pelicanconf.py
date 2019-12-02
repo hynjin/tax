@@ -7,7 +7,7 @@ SITENAME = 'tax'
 SITEURL = 'hynjin.github.io/tax'
 
 PATH = 'content'
-
+GITHUB_URL = 'https://hynjin.github.io/tax/'
 TIMEZONE = 'Europe/Paris'
 
 DEFAULT_LANG = 'ko'
