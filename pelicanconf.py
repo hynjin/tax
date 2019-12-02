@@ -4,10 +4,10 @@ from __future__ import unicode_literals
 
 AUTHOR = 'hynjin'
 SITENAME = 'tax'
-SITEURL = 'https://hynjin.github.io/tax/'
+SITEURL = ''
 
 PATH = 'content'
-GITHUB_URL = 'https://hynjin.github.io/tax/'
+
 TIMEZONE = 'Europe/Paris'
 
 DEFAULT_LANG = 'ko'
