@@ -19,7 +19,9 @@ FEED_ALL_ATOM = 'feeds/all.atom.xml'
 CATEGORY_FEED_ATOM = 'feeds/{slug}.atom.xml'
 
 DELETE_OUTPUT_DIRECTORY = True
-
+relative_urls : false,
+remove_script_host : false,
+document_base_url : "https://hynjin.github.io/tax/"
 # Following items are often useful when publishing
 
 #DISQUS_SITENAME = ""
