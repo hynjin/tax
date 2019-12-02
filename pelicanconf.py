@@ -4,9 +4,9 @@ from __future__ import unicode_literals
 
 AUTHOR = 'hynjin'
 SITENAME = 'tax'
-SITEURL = ''
+SITEURL = 'hynjin.github.io/tax'
 
-PATH = 'content'
+PATH = 'hynjin.github.io/tax'
 
 TIMEZONE = 'Europe/Paris'
 
