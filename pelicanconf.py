@@ -2,9 +2,9 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-AUTHOR = 'somjang'
-SITENAME = 'tax'
-SITEURL = 'https://hynjin.github.io/tax/'
+AUTHOR = 'hynjin'
+SITENAME = 'testForTaxingSystem'
+SITEURL = 'https://hynjin.github.io/tax'
 
 PATH = 'content'
 
