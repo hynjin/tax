@@ -6,7 +6,7 @@ AUTHOR = 'hynjin'
 SITENAME = 'tax'
 SITEURL = 'hynjin.github.io/tax'
 
-PATH = 'content'
+PATH = 'hynjin.github.io/tax'
 
 TIMEZONE = 'Europe/Paris'
 
