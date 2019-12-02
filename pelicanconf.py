@@ -3,8 +3,8 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'hynjin'
-SITENAME = 'testForTaxingSystem'
-SITEURL = 'https://hynjin.github.io/tax'
+SITENAME = 'testForPelican'
+SITEURL = 'https://hynjin.github.io/testForPelican'
 
 PATH = 'content'
 
