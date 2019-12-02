@@ -7,7 +7,7 @@ from __future__ import unicode_literals
 
 import os
 import sys
-sys.path.append(os.curdir)
+sys.path.append(os.curdir+'/tax/')
 from pelicanconf import *
 
 # If your site is available via HTTPS, make sure SITEURL begins with https://
